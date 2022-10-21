@@ -1,0 +1,63 @@
+Grokking Artificial Intelligence Algorithms
+
+Map:
+Search Fundamentals
+Advanced Search
+Intuition of AI
+Evolutionary Algorithms
+Swarm Intelligence: Ants
+Swarm Intelligence: Particles
+Machine Learning    
+Artificial Neural Learning
+Reinforcement Learning with Q Learning
+
+Purpose of developing technologies: Change the way we live, and shape the way we interact with the world and the way we think about it.
+Reasons for AI Boom -
+- Exponential Growth [Mainly dependent on problem solving fundamentals]
+- Internet dev. + Mass data collection
+- Algorithm improvements for massive data
+- Industries actually leveraging data (for profit)
+- Tech improvements (microchips, PC's and digitization)
+
+Keep in Mind: Legal and Ethical Development
+Data collected from humans has biases. Minimize prejudice and get balanced data. Get consent; people prefer it during data collection if its useful and consensual
+Singularity: AI self improves = Super intelligence 
+
+• Chapter 1—Intuition of artificial intelligence, Intro: 
+Intuition + Fundamentals of - Data, types of problems, categories of algorithms and paradigms, and use cases for artificial intelligence algorithms.
+
+• Chapter 2—Search fundamentals, Core concepts of data structures: 
+Approaches for primitive search algorithms, and their uses.
+
+• Chapter 3—Intelligent search, Beyond primitive search algorithms:
+More optimal algorithms, and solutions in a competitive environment.
+
+• Chapter 4—Evolutionary algorithms, dives into the workings of genetic
+algorithms where solutions to problems are iteratively generated and improved
+upon by mimicking evolution in nature.
+
+• Chapter 5—Advanced evolutionary approaches, is a continuation of genetic
+algorithms but tackles advanced concepts involving how steps in the algorithm
+can be adjusted to solve different types of problems more optimally.
+
+• Chapter 6—Swarm intelligence: Ants, digs into the intuition for swam intelligence
+and works through how the ant colony optimization algorithm uses a theory of
+how ants live and work to solve hard problems.
+
+• Chapter 7—Swarm intelligence: Particles, continues with swarm algorithms while
+diving into what optimization problems are, and how they’re solved using
+particle swarm optimization—as it seeks good solutions in large search spaces.
+
+• Chapter 8—Machine learning, works through a machine learning workflow for
+data preparation, processing, modeling, and testing—to solve regression
+problems with linear regression, and classification problems with decision trees.
+
+• Chapter 9—Artificial neural networks, uncovers the intuition, logical steps, and
+mathematical calculations in training and using an artificial neural network to
+find patterns in data and make predictions; while highlighting its place in a
+machine learning workflow.
+
+• Chapter 10—Reinforcement learning with Q-Learning, covers the intuition of
+reinforcement learning from behavioral psychology, and works through the
+Q-Learning algorithm for agents to learn good and bad decisions to make in an
+environment.
