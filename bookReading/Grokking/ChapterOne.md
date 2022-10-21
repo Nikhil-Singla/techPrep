@@ -25,7 +25,7 @@ Algorithm -> Set of instructions and rules provided as a specification to accomp
 - have several finite steps <br />
 - progresses through varying states <br />
 - produces an output <br />
+<br />
 An algorithm can be viewed as a recipe; Given some ingredients and tools as inputs, and instructions for creating a specific dish, a meal is the output. <br /><br />
-
 Uses: Enable live and remote video chat (compression algorithms), navigate cities (real-time routing algorithms), translate human code into machine code (coding algorithms) <br />
 Algorithm has discrete steps that perform an action or determine a decision before moving to the next operation. <br />
