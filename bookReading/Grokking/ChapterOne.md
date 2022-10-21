@@ -18,3 +18,13 @@ Data exists in forms we can’t even sense. Unlike numerical values, known as qu
 Smell, level of agreement etc is a type of data is known as qualitative data; sometimes difficult to interpret. It’s a perception of someone’s truth.
 - In the real world, data has bias and context, and if used to answer question, its called information. Utilizing information leads to knowledge (simulate with AI).
 Data intepretation has consequences for quality of solution. ie, scientific aspect of creating technology is hugely important.
+
+#### Viewing algorithms as instructions in recipes
+Algorithm -> Set of instructions and rules provided as a specification to accomplish a specific goal.
+- typically accept inputs
+- have several finite steps 
+- progresses through varying states
+- produces an output
+An algorithm can be viewed as a recipe; Given some ingredients and tools as inputs, and instructions for creating a specific dish, a meal is the output.
+Uses: Enable live and remote video chat (compression algorithms), navigate cities (real-time routing algorithms), translate human code into machine code (coding algorithms)
+Algorithm has discrete steps that perform an action or determine a decision before moving to the next operation.
