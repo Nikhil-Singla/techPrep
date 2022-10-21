@@ -1,4 +1,4 @@
-## Chapter 1—Intuition of artificial intelligence:
+## [Chapter 1—Intuition of artificial intelligence](https://github.com/Nikhil-Singla/techPrep/blob/main/bookReading/Grokking/ChapterOne.txt):
 
 
 What is artificial intelligence?
