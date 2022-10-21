@@ -9,3 +9,13 @@ Machine Learning
 Artificial Neural Learning
 Reinforcement Learning with Q Learning
 
+Purpose of developing technologies: Change the way we live, and shape the way we interact with the world and the way we think about it.
+Reasons for AI Boom -
+- Exponential Growth [Mainly dependent on problem solving fundamentals]
+- Internet dev. + Mass data collection
+- Algorithm improvements for massive data
+- Industries actually leveraging data (for profit)
+- Tech improvements (microchips, PC's and digitization)
+
+Keep in Mind: Legal and Ethical Development
+Data collected from humans has biases. Minimize prejudice and get balanced data. 
