@@ -32,23 +32,17 @@ Definition: AI algorithms are sets of instructions that use data to create syste
 
 #### Problem types and problem-solving paradigms <br />
 Problems are classified based on the context and the goal. <br />
-##### Search Problems (Find path to solution): 
-Multiple possible solutions; Sequence of steps (path); Maybe overlapping subsets; Better: Cheaper (computationally) or Lighter (storage). <br /> Involving searching a solution space. <br />
-##### Optimization Problems (Find good solution): 
-Vast solutions, but absolute-best is difficult; Enormous number of possibilities. <br />
+**Search Problems (Find path to solution):** Multiple possible solutions; Sequence of steps (path); Maybe overlapping subsets; Better: Cheaper (computationally) or Lighter (storage). <br /> Involving searching a solution space. <br />
+**Optimization Problems (Find good solution):** Vast solutions, but absolute-best is difficult; Enormous number of possibilities. <br />
 Local Best = Best within a specific search area (can be many). <br />
 Global Best =  Best in the entire solution space (only 1). <br />
-##### Prediction & Classification Problems (Learn from pattern):
-Prediction: Have data, want to find patterns. <br />
+**Prediction & Classification Problems (Learn from pattern):** Prediction: Have data, want to find patterns. <br />
 Classification: Have data, find patterns to group them properly. <br />
-##### Clustering Problems (Identify Patterns):
-Uncover trends and relationships from data. <br />
+**Clustering Problems (Identify Patterns):** Uncover trends and relationships from data. <br />
 Find relationships without a precise question being asked. <br />
 Useful to getting information from data. <br />
-##### Deterministic Models (Same result):
-Given specific input, return consistent output. <br />
-##### Stochastic/Probabilistic Models (Different results per calculation):
-Given specific input, return from a set of possible outcomes. <br />
+**Deterministic Models (Same result):** Given specific input, return consistent output. <br />
+**Stochastic/Probabilistic Models (Different results per calculation):** Given specific input, return from a set of possible outcomes. <br />
 Have an element of controlled randomness. <br />
 <br />
 
