@@ -27,5 +27,14 @@ Algorithm -> Set of instructions and rules provided as a specification to accomp
 - produces an output <br />
 <br />
 An algorithm can be viewed as a recipe; Given some ingredients and tools as inputs, and instructions for creating a specific dish, a meal is the output. <br /><br />
-Uses: Enable live and remote video chat (compression algorithms), navigate cities (real-time routing algorithms), translate human code into machine code (coding algorithms) <br />
+Uses: Enable live and remote video chat (compression algorithms), navigate cities (real-time routing algorithms), translate human code into machine code (coding algorithms). <br />
 Algorithm has discrete steps that perform an action or determine a decision before moving to the next operation. <br />
+Definition: AI algorithms are sets of instructions that use data to create systems that exhibit intelligent behavior and solve hard problems. <br />
+
+#### Problem types and problem-solving paradigms <br />
+Problems are classified based on the context and the goal. <br />
+Search Problems (Find path to solution): Multiple possible solutions; Sequence of steps (path); Maybe overlapping subsets; Better: Cheaper (computationally) or Lighter (storage). <br /> Involving searching a solution space. <br /> <br />
+Optimization Problems (Find good solution): Vast solutions, but absolute-best is difficult; Enormous number of possibilities. <br />
+Local Best = Best within a specific search area (can be many). <br />
+Global Best =  Best in the entire solution space (only 1). <br />
+<br />
