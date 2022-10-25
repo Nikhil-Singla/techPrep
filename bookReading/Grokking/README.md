@@ -26,7 +26,7 @@ Singularity: AI self improves = Super intelligence
 [Chapter 1—Intuition of artificial intelligence, Intro: ](https://github.com/Nikhil-Singla/techPrep/blob/main/bookReading/Grokking/ChapterOne.md)
 Intuition + Fundamentals of - Data, types of problems, categories of algorithms and paradigms, and use cases for artificial intelligence algorithms.
 
-• Chapter 2—Search fundamentals, Core concepts of data structures: 
+[Chapter 2—Search fundamentals, Core concepts of data structures: ](https://github.com/Nikhil-Singla/techPrep/blob/main/bookReading/Grokking/ChapterTwo.md)
 Approaches for primitive search algorithms, and their uses.
 
 • Chapter 3—Intelligent search, Beyond primitive search algorithms:
