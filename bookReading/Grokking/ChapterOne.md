@@ -56,3 +56,13 @@ Search Algorithms: Several actions to goal. Path finding. <br />
 Biology-inspired algorithms: Evoolutionary/Swarm intelligence. <br />
 Machine Learning: Supervised, Unsupervised and Reinforcement learning. <br />
 Deep Learning: Using spatial intelligence and reason to learn in a deep manner. <br />
+
+#### Uses of AI for Intelligence algorithms
+Agriculture: Optimal Plant Growth. <br />
+Bannking: Fraud Detection. <br />
+Cybersecurity: Attack and handling. <br />
+Healthcare: Diagnosis of patient. <br />
+Logistics: Routing and Optimization. <br />
+Telecoms: Optimizing Networks. <br />
+Games: AI agents. <br />
+Art: Creating Masterpieces. <br />
