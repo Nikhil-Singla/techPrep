@@ -47,3 +47,12 @@ Have an element of controlled randomness. <br />
 <br />
 
 #### Intuition of AI concepts
+Narrow intelligence: Specific-purpose solutions: Specific problem solving. <br />
+General intelligence: Humanlike solutions: Memory, Spatial reasoning, Knowledge, etc. <br />
+Super intelligence: Unknown, reason beyond understanding. <br />
+Old AI: Encoded Rules, New AI: Algorithms. <br />
+<br />
+Search Algorithms: Several actions to goal. Path finding. <br />
+Biology-inspired algorithms: Evoolutionary/Swarm intelligence. <br />
+Machine Learning: Supervised, Unsupervised and Reinforcement learning. <br />
+Deep Learning: Using spatial intelligence and reason to learn in a deep manner. <br />
