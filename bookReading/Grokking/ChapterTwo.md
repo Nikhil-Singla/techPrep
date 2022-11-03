@@ -17,7 +17,7 @@ The problem space needs to be represented in a form that is applicable to comput
 When representing data need to encode it logically so that it can be understood objectively. <br />
 Data is raw facts about something, and information is an interpretation of those facts that provides insight about the data in the specific domain. <br />
 Information requires context and processing of data <br />
-Data structures are concepts in computer science used to represent data in a way that is suitable for efficient processing by algorithms. <br />
+Data structures are concepts in computer science used to represent data in a way that is suitable for efficient processing by algorithms. <br /><br />
 *Graphs: Representing search problems and solutions:* 
 - Data structure containing several states with connections among them.
 - Each state in a graph is called a node(/vertex)
