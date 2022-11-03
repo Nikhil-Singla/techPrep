@@ -18,12 +18,25 @@ When representing data need to encode it logically so that it can be understood 
 Data is raw facts about something, and information is an interpretation of those facts that provides insight about the data in the specific domain. <br />
 Information requires context and processing of data <br />
 Data structures are concepts in computer science used to represent data in a way that is suitable for efficient processing by algorithms. <br />
-*Graphs: Representing search problems and solutions:* <br />
+*Graphs: Representing search problems and solutions:* 
 - Data structure containing several states with connections among them.
 - Each state in a graph is called a node(/vertex)
 - A connection between two states is called an edge. 
 <br />
-*Representing a graph as a concrete data structure:* <br />
-- A graph can be represented by an array of arrays that indicates relationships among nodes. <br />
-- Other representations -> incidence matrix, an adjacency matrix, and an adjacency list. <br />
-- Adjacency of nodes in a graph is important. An adjacent node is a node that is connected directly to another node. <br />
+
+*Representing a graph as a concrete data structure:* 
+- A graph can be represented by an array of arrays that indicates relationships among nodes.
+- Other representations -> incidence matrix, an adjacency matrix, and an adjacency list.
+- Adjacency of nodes in a graph is important. An adjacent node is a node that is connected directly to another node. 
+<br />
+
+*Trees: The concrete structures used to represent search solutions:*
+- Tree simulate hierarchy of values or objects. 
+- A hierarchy is an arrangement of things in which a single object is related to several other objects below it. 
+- A tree is a connected acyclic graph—every node has an edge to another node, and no cycles exist.
+- Specific point = Node. Root node with zero of more child subtrees.
+- Parent nodes, children nodes(aka neighbour nodes) and leaf nodes (nodes without child nodes).
+- Level of specfic node = depth. Level of overall tree = height. Indexed from root (start at 0)
+- A node connected to another node by following a path away from the root node is called a descendent
+- A node connected to another node by following a path toward the root node is called an ancestor
+- The term degree is used to describe the number of children a node has
