@@ -1,0 +1,63 @@
+Video 1 - 17:
+
+Algorithm - Step by step procedure for solving a computational problem.
+Program: Step by step procedure for solving a problem.
+
+Design Phase -> Implementation Phase is the process followed.
+Always design the program first before writting/implementing. Algorithms are written at designed time, unlike programs written at implementation time.
+Knowledge of domain needed for Algorithm, but Programmer can write programs with or without domain knowledge.
+Algorithm can be written in any language (English, Mathematical Notation, Pseudocode etc), but Program is in one coding/programming language.
+Algorithm is Hardware and Software independant. But Program is dependant on Hardware/Software.
+Analysis of Algorithm vs Testing of Program
+
+Priori Analysis is done over the algorithm by studying it into greater detail. (Time and space consumed by the algorithm)
+Posteriori Analysis is done over the program by studying its watch time and bytes. 
+
+Characteristics of Algorithm:
+Algorithm may (0 or more) take input to generate at least one output (1 or more). 
+Definiteness: Every statement should be defined/determined/unambigious i.e, all steps are known. 
+Finiteness: Algorithm is just like a function hence it must terminate at some point, i.e, must terminate at some point as its duration should be finite.
+Effectiveness: Every statement must have a purpose, no useless steps.
+
+How to write an Algorithm:
+Example: 
+Algorithm swap(a, b){       Algorithm swap(a, b)
+    temp = a;               Begin
+    a = b;                      temp = a;
+    b = temp;                   a = b;
+}                               b = temp;
+1st Type                    End
+
+Criteria for Analysis of Algorithm:
+1) Time Analysis    (Time Function)
+2) Space Analysis   (Space Function)
+Optional: Network consumption (for cloud based purposes); Power consumption (for smaller devices with small batteries); CPU Registers (device driver/system level programming)
+
+Time Analysis -
+Every single (simple) statement takes 1 unit of time.
+
+For the above example: 
+It takes 3 units of time, which is constant. f(n) = 3. Hence its O(1) time complexity.
+
+Space Analysis -
+a used 1 parameter
+b used 1 parameter 
+and temp is a local parameter
+So total units of space = 3. That is, o(1) constant space complexity. (Big O stands for Capital Order of Complexity)
+
+Frequency count method:
+Time taken can be known by assigning 1 unit of time for each statement, and if any statement is repeating for some number of times, the frequency of execution
+of that statement should be calculated and added to the time taken for that algorithm.
+Example:
+in statement - for(int i = 0; i <n; i++)
+Run time:            1       n+1    n      [times]
+
+So the overall complexity of the statement at the start of the for loop is just the highest only, (n+1) 
+The statement inside the loop though only executes for n times. 
+
+If lets say by adding complexities, we get f(n) = 2n+3, the time complexity of the function is "O(n)" as the order of the polynomial is 1.
+Let similarly, Space complexity be something like S(n) = n+7, the space complexity is still "O(n)"
+Statement                               Time Complexity         Space Complexity
+Two for loops inside one another =          O(n^2)                    O(n^2)           // 2D Arrays of NxN length for example
+Always go by the degree of the polynomial essentially, so O(2n^2) is also reduced to O(n^2) and O(3n^ + 8) is reduced to O(n^2)
+Example: f(n) = 2n^3 + 3n^2 + 2n + 1 still reduces to O(n^3).
