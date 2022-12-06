@@ -23,7 +23,8 @@ Algorithms
 Implementation Problems
 
 Programming Paradigm
-Recursion
-Divide and Conquer
-Greedy
-Backtracking & Branch and Bound
+    1. Recursion
+    2. Divide and Conquer
+    3. Greedy
+    4. Backtracking & Branch and Bound
+    5. Dynamic Programming
