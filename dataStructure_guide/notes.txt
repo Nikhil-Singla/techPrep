@@ -1,0 +1,11 @@
+YouTube: Rebeloper
+First data structure: Stack
+Each element is on top of another. LIFO - Last In, First Out element.
+Adding and Removing the topmost element only. Also called peeking the stack.
+Functions: 
+Push
+Pop
+Peek
+isEmpty
+isFull
+----------------------------------------------------------------------------
