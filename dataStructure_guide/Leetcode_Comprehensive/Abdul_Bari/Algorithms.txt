@@ -61,3 +61,15 @@ Statement                               Time Complexity         Space Complexity
 Two for loops inside one another =          O(n^2)                    O(n^2)           // 2D Arrays of NxN length for example
 Always go by the degree of the polynomial essentially, so O(2n^2) is also reduced to O(n^2) and O(3n^ + 8) is reduced to O(n^2)
 Example: f(n) = 2n^3 + 3n^2 + 2n + 1 still reduces to O(n^3).
+
+Time Complexity Finding:
+Order of n for time complexity is independant of increment direction so even if its decrement, only the times it runs it matters, and n/2 run time is also O(n). 
+Nested loops case: i = 0; i < n and j = i; j < n => O(n^2) as degree becomes n(n+1)/2 on analysis which is smaller
+** Special Loop **
+int p = 0
+for(int i = 1; p <= n; i++)
+{
+    p = p + i;
+}
+This is a O(sqrt(n)) times as upon calculation we get that loop goes till i = k, or runs k times, where 1+2+3...+k > n
+Or k(k+1)/2 > n, or approx k^2 > n, hence k = sqrt(n) and thats how many times the loop runs. Hence previous answer.
