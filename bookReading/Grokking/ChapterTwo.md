@@ -46,3 +46,4 @@ Uninformed search: Looking blindly for solutions
 - No additional information except representation of the problem
 - Depth-first search explores a specific path from the start until it finds a goal at the utmost depth. 
 - Breadth-first search explores all options at a specific depth before moving to options deeper in the tree.
+- Prevent getting lost by using constraints like "cannot move into previously occupied position"
