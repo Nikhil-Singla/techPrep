@@ -40,3 +40,9 @@ Data structures are concepts in computer science used to represent data in a way
 - A node connected to another node by following a path away from the root node is called a descendent
 - A node connected to another node by following a path toward the root node is called an ancestor
 - The term degree is used to describe the number of children a node has
+
+Uninformed search: Looking blindly for solutions
+- Uninformed search is also known as unguided search, blind search, or brute-force search.
+- No additional information except representation of the problem
+- Depth-first search explores a specific path from the start until it finds a goal at the utmost depth. 
+- Breadth-first search explores all options at a specific depth before moving to options deeper in the tree.
